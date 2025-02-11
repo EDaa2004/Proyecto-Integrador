@@ -1,0 +1,199 @@
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.exe
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.deps.json
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.runtimeconfig.json
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmFormulario.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.Up2Date
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\refint\SalidaEcu.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.genruntimeconfig.cache
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\ref\SalidaEcu.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.Properties.Resources.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmConsultas.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmEstadísticas.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmGestión.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmLogin.resources
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Dell\source\repos\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\refint\SalidaEcu.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmConsultas.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmEstadísticas.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmFormulario.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmGestión.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmLogin.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.Properties.Resources.resources
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.GenerateResource.cache
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfo.cs
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.exe
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.deps.json
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.runtimeconfig.json
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.Up2Date
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.genruntimeconfig.cache
+C:\Users\PERSONAL\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\Documentos\pao3\Fundamentos\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\ref\SalidaEcu.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\refint\SalidaEcu.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.exe
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.deps.json
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.runtimeconfig.json
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\SalidaEcu.pdb
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmConsultas.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmEstadísticas.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmFormulario.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmGestión.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.frmLogin.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.Properties.Resources.resources
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.AssemblyInfo.cs
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.Up2Date
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.genruntimeconfig.cache
+C:\Users\Dell\Desktop\InfExcel\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\ref\SalidaEcu.dll
+C:\basedata\SalidaEcu\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.csproj.AssemblyReference.cache
+C:\basedata\SalidaEcu\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.dll
+C:\basedata\SalidaEcu\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\refint\SalidaEcu.dll
+C:\basedata\SalidaEcu\SalidaEcu\SalidaEcu\SalidaEcu\obj\Debug\net8.0-windows\SalidaEcu.pdb
