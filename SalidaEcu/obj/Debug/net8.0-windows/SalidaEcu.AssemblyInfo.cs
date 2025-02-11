@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalidaEcu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c5bd1c3e33ae6c55db0fa614f2d7833c9dd8f50")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalidaEcu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalidaEcu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\basedata\\SalidaEcu\\SalidaEcu\\SalidaEcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81595A17-4076-43F4-9DC9-26E03191B715}|SalidaEcu\\SalidaEcu.csproj|c:\\basedata\\salidaecu\\salidaecu\\salidaecu\\salidaecu\\frmgesti\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81595A17-4076-43F4-9DC9-26E03191B715}|SalidaEcu\\SalidaEcu.csproj|solutionrelative:salidaecu\\frmgesti\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81595A17-4076-43F4-9DC9-26E03191B715}|SalidaEcu\\SalidaEcu.csproj|c:\\basedata\\salidaecu\\salidaecu\\salidaecu\\salidaecu\\frmformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81595A17-4076-43F4-9DC9-26E03191B715}|SalidaEcu\\SalidaEcu.csproj|solutionrelative:salidaecu\\frmformulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGesti\u00F3n.cs",
+              "DocumentMoniker": "C:\\basedata\\SalidaEcu\\SalidaEcu\\SalidaEcu\\SalidaEcu\\frmGesti\u00F3n.cs",
+              "RelativeDocumentMoniker": "SalidaEcu\\frmGesti\u00F3n.cs",
+              "ToolTip": "C:\\basedata\\SalidaEcu\\SalidaEcu\\SalidaEcu\\SalidaEcu\\frmGesti\u00F3n.cs",
+              "RelativeToolTip": "SalidaEcu\\frmGesti\u00F3n.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:45:34.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFormulario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\basedata\\SalidaEcu\\SalidaEcu\\SalidaEcu\\SalidaEcu\\frmFormulario.cs",
+              "RelativeDocumentMoniker": "SalidaEcu\\frmFormulario.cs",
+              "ToolTip": "C:\\basedata\\SalidaEcu\\SalidaEcu\\SalidaEcu\\SalidaEcu\\frmFormulario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SalidaEcu\\frmFormulario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:45:20.035Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
